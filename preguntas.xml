@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE questions>
+<!--
+	<questions>
+	<type>text</type>
+	<title>Adivina el número secreto... </title>
+	<answer></answer>
+    </question>
+    <question>
+	<type>select</type>
+	<title>HTML son las iniciales de...</title>
+	<option>Hyper Text Transfer Protocol</option>
+	<option>File Transfer Protocol</option>
+	<option>Hypertext markup language</option>
+	<answer>2</answer>
+    </question>
+    <question>
+	<type>checkbox</type>
+<title>Marca las frutas</title>
+<option>naranja</option>
+<option>verde</option>
+<option>fresa</option>
+<option>violeta</option>
+<answer>0</answer>
+<answer>2</answer>
+</question>
+<question> 
+	-->
+<questions>
+<question>
+<type>select</type>
+<title>Cual es la vitamina principal de la fresa?</title>
+<option>B</option>
+<option>C</option>
+<option>D</option>
+<option>E</option>
+<answer>3</answer>
+</question>
+<question>
+<type>select</type>
+<title>Cual de estas Comidas es la que tiene mas azucar?
+PD:El tomate es una fruta</title>
+<option>Cocacola</option>
+<option>Ketchup</option>
+<option>Tarta</option>
+<option>Tomate</option>
+<answer>0</answer>
+</question>
+<question>
+<type>checkbox</type>
+<title>Cual de estos postres se sirve caliente?(+1 opción)</title>
+<option>Tiramisu</option>
+<option>Buñuelos de Manzana</option>
+<option>Pankakes</option>
+<option>Helado</option>
+<answer>0</answer>
+<answer>2</answer>
+</question>
+<question>
+<type>checkbox</type>
+<title>Cual de estas comidas puede llevar zanahoria?(+1 opción)</title>
+<option>Tarta</option>
+<option>Buñuelos</option>
+<option>Sorvete</option>
+<option>Cupcake</option>
+<answer>1</answer>
+<answer>0</answer>
+</question>
+<question>
+<type>radio</type>
+<title>De que localidad es tipica la maravillosa y perfecta Ensaimada? :)</title>
+<option>Madrid</option>
+<option>Baleares</option>
+<option>Galicia</option>
+<option>Andalucia</option>
+<answer>1</answer>
+</question>
+<question>
+<type>radio</type>
+<title>Que cantidad de azucar tiene una cocacola? Pista:Mucha</title>
+<option>5g</option>
+<option>24g</option>
+<option>11g</option>
+<option>9g</option>
+<answer>2</answer>
+</question>
+<question>
+<type>input</type>
+<title>Cual es el nombre de esta comida rara y algo extraña?</title>
+<answer>fruta del dragon</answer>
+</question>
+<question>
+<type>input</type>
+<title>Con que nombre se conoce este azucar? azucar ___</title>
+<answer>moreno</answer>
+</question>
+<question>
+<type>multiple</type>
+<title>Cuales de estas frutas son las mas refrescantes?</title>
+<option>Sandia</option>
+<option>Limon</option>
+<option>Manzana</option>
+<option>Fresa</option>
+<answer>0</answer>
+<answer>3</answer>
+</question>
+<question>
+<type>multiple</type>
+<title>Cual de estas comidas pueden contener Kiwi?</title>
+<option>Tarta</option>
+<option>Pizza</option>
+<option>Cupcake</option>
+<option>Batido</option>
+<answer>0</answer>
+<answer>3</answer>
+</question>
+</questions>
